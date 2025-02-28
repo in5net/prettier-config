@@ -1,6 +1,6 @@
 # prettier-config
 
-prismancy's configuration for [Prettier](https://prettier.io)
+in5net's configuration for [Prettier](https://prettier.io)
 
 Main features
 Config options used:
